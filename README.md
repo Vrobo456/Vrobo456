@@ -9,4 +9,5 @@ My progress/ what I know - basics of Python
 Right now I am looking to build my own home lab/server for 2 reasons: 
   1. Replace all of the expensive subscriptions like Netflix and Spotify.
   2. Build an environment where I can test, break and repair systems without horrible consequences.
+  
   BONUS 3. Deepen my knowledge about Networking and computer systems
