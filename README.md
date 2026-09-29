@@ -9,3 +9,6 @@ My progress/ what I know - basics of Python
 Right now I am looking to learn Python's automation: 
   1. It's a natural progression from my basics of Pythonn.
   2. It's really useful even for day to day life, e.g. organizing your work files.
+
+[Python's automation](./PythonAutomation/) — weekly notes on learning Python automation
+
